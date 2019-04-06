@@ -1,6 +1,6 @@
 # Digital Forensics Toolkit
 
-A compliation of tools that I have used or might use for digital forensics purposes, sorted by function.
+A compliation of tools that I have used or might use for digital forensics purposes, sorted by function - if/when I need to run my own digital forensics suite, these are the tools that I will reach for first. Many of these are industry-standard, and the majority of them are free. Free isn't always best, but it is when you're a student or building things on your own!
 
 ## Network tools
 
