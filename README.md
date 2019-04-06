@@ -54,8 +54,16 @@ FTK just seems like an expensive, slightly more complicated version of Autopsy. 
 
 ### [EnCase](https://www.guidancesoftware.com/encase-forensic)
 
+EnCase does the same thing as FTK and Autopsy, based on my casual encounters with all three over the past few months. Its distinguishing factor, though, is that this framework is geared heavily towards maintaining proper chain of custody and evidence tracking. This feature was upfront and easy to use. Properly documenting what physical evidence generates which digital evidence is a crucial element of digital forensics, and EnCase makes it easy.
+
 ## Frameworks
 
 ### [FIR (Fast Incident Response)](https://github.com/certsocietegenerale/FIR)
 
+Logging, tracking, and closing security incidents is an extremely important part of cyber security. If your organization is experiencing cyebr incidents and not completely following up on them, well... I doubt that your organization will continue to function for long, either because all of its IT infrastructure gets destroyed or because you go bankrupt from lawsuits. A Fast Incident Response system allows users to document and properly follow up on cyber incidents within an organization.
+
+I have not personally used this tool, but I have used ticketing systems in dev ops work situations. They are essential. Besides Snort, FIR is on the top of my list of tools to grab if I have to run my own digital forensics and cyber security suite.
+
 ### [ELK (Security Information and Event Management)](https://www.elastic.co/elk-stack)
+
+I know less about ELK than any of the tools described. ELK is a system for tracking live events on a network. We use it in our SOC at work, but I have had no personal experience with it. It seems like a central point for any cyber security team. 
