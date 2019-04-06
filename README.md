@@ -40,11 +40,17 @@ Linux dd (data duplicator) is used for copying and converting data. According to
 
 ### [WinPrefetch View](https://www.nirsoft.net/utils/win_prefetch_view.html)
 
+Windows systems are fairly easy to work on with many of the tools below. One useful tool that stands apart from full software suites is the WinPreftech View. This tool allows users to view the Prefetch files created by Windows when programs are run. On the long list of evidence that a forensic investigator should want to collect, recently run applications is near the top of the list. 
+
 ## Software Suites
 
 ### [Autopsy (and Sleuth Kit)](https://www.sleuthkit.org/autopsy/)
 
+I have spent more time with this tool in my digital forensics class than any of the other tools on this list. Autopsy is a GUI for a command-line tool called Sleuth Kit - I have not used Sleuth Kit by itself, but I assume it's pretty powerful. Autopsy is a free tool that allows you to conveniently browse the file system of a captured system. 
+
 ### [FTK Imager](https://accessdata.com/products-services/forensic-toolkit-ftk)
+
+FTK just seems like an expensive, slightly more complicated version of Autopsy. We used it in class, but I found Autopsy to be more useful for my own use cases. I believe one of FTK's distinguishing factors is that it's built to support collaboration. In a real digital forensics environment, multiple people will work on one case. FTK is designed to store its information in a central location for all team members to access. FTK also felt more professional, generally, than Autopsy. I think it might be more useful to large teams that have a lot of cases concurrently.
 
 ### [EnCase](https://www.guidancesoftware.com/encase-forensic)
 
